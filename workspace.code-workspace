@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\xampp\\htdocs"
+		},
+		{
+			"path": "..\\..\\UnTether"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"vector": "cpp",
+			"string": "cpp"
+		}
+	}
+}
